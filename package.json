@@ -22,7 +22,7 @@
   "homepage": "https://createeveryday.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zzjzzz/pebble.git"
+    "url": "git+https://github.com/zzjzzz/pebblecss.git"
   },
   "bugs": {
     "url": "https://createeveryday.dev"
