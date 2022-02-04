@@ -1,32 +1,33 @@
 .tabs {
-    display: flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
-
 .tabs a {
-    text-decoration: none;
+  text-decoration: none;
 }
-
 .tabs > .dropdown > summary,
 .tabs > a {
-    padding: 1rem 2rem;
-    flex: 0 1 auto;
-    color: var(--color-darkGrey);
-    border-bottom: 2px solid var(--color-lightGrey);
-    text-align: center;
+  padding: 1rem 2rem;
+  -webkit-box-flex: 0;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  color: var(--color-darkGrey);
+  border-bottom: 2px solid var(--color-lightGrey);
+  text-align: center;
 }
-
 .tabs > a[aria-current="page"],
 .tabs > a.active,
 .tabs > a:hover {
-    opacity: 1;
-    border-bottom: 2px solid var(--color-darkGrey);
+  opacity: 1;
+  border-bottom: 2px solid var(--color-darkGrey);
 }
-
 .tabs > a[aria-current="page"],
 .tabs > a.active {
-    border-color: var(--color-primary);
+  border-color: var(--color-primary);
 }
-
 .tabs.is-full a {
-    flex: 1 1 auto;
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
 }
