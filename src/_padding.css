@@ -1,0 +1,25 @@
+/* This is the start of the padding utilities. */
+/* will add 0-6 plus maybe a shortcut ie: m,mt,mx */
+/* add to dist. once tested */
+.has-padding {
+  padding: auto;
+}
+.has-padding-top {
+padding-top: auto;
+}
+.has-padding-right {
+  padding-right: auto;
+}
+.has-padding-bottom {
+  padding-bottom: auto;
+}
+.has-padding-left {
+  padding-left: auto;
+}
+.has-padding-x {
+  padding-left: auto;
+  padding-right: auto;
+}
+.has-padding-y {
+  padding-top: auto;
+  padding-bottom: apadding

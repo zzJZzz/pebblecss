@@ -1,6 +1,6 @@
 {
   "name": "tinypebblecss",
-  "version": "0.5.0",
+  "version": "0.5.",
   "description": "A really small CSS framework",
   "main": "dist/pebble.min.css",
   "scripts": {

@@ -1,0 +1,26 @@
+/* This is the start of the margin utilities. */
+/* will add 0-6 plus maybe a shortcut ie: m,mt,mx */
+/* add to dist. once tested */
+.has-margin {
+  margin: auto;
+}
+.has-margin-top {
+  margin-top: auto;
+}
+.has-margin-right {
+  margin-right: auto;
+}
+.has-margin-bottom {
+  margin-bottom: auto;
+}
+.has-margin-left {
+  margin-left: auto;
+}
+.has-margin-x {
+  margin-left: auto;
+  margin-right: auto;
+}
+.has-margin-y {
+  margin-top: auto;
+  margin-bottom: auto;
+}
