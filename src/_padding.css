@@ -1,25 +1,174 @@
-/* This is the start of the padding utilities. */
-/* will add 0-6 plus maybe a shortcut ie: m,mt,mx */
 /* add to dist. once tested */
+
+/* padding All around */
 .has-padding {
   padding: auto;
 }
-.has-padding-top {
-padding-top: auto;
+.has-padding-1 {
+  padding: 0.25rem;
 }
-.has-padding-right {
-  padding-right: auto;
+.has-padding-2 {
+  padding: 0.5rem;
 }
-.has-padding-bottom {
-  padding-bottom: auto;
+.has-padding-3 {
+  padding: 0.75rem;
 }
-.has-padding-left {
-  padding-left: auto;
+.has-padding-4 {
+  padding: 1rem;
 }
-.has-padding-x {
-  padding-left: auto;
-  padding-right: auto;
+.has-padding-5 {
+  padding: 1.25rem;
 }
-.has-padding-y {
-  padding-top: auto;
-  padding-bottom: apadding
+.has-padding-6 {
+  padding: 1.5rem;
+}
+
+/* padding left and right */
+.has-padding-x0 {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+.has-padding-x1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+.has-padding-x2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.has-padding-x3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+.has-padding-x4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.has-padding-x5 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+.has-padding-x6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* padding top and bottom */
+.has-padding-y0 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+.has-padding-y1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+.has-padding-y2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.has-padding-y3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+.has-padding-y4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.has-padding-y5 {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+.has-padding-y6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+/* padding Top */
+.has-padding-t0 {
+  padding-top: 0rem;
+}
+.has-padding-t1 {
+  padding-top: 0.5rem;
+}
+.has-padding-t2 {
+  padding-top: 0.5rem;
+}
+.has-padding-t3 {
+  padding-top: 0.75rem;
+}
+.has-padding-t4 {
+  padding-top: 1rem;
+}
+
+.has-padding-t5 {
+  padding-top: 1.25rem;
+}
+.has-padding-t6 {
+  padding-top: 1.5rem;
+}
+/* padding right */
+.has-padding-r0 {
+  padding-right: 0rem;
+}
+.has-padding-r1 {
+  padding-right: 0.5rem;
+}
+.has-padding-r2 {
+  padding-right: 0.5rem;
+}
+.has-padding-r3 {
+  padding-right: 0.75rem;
+}
+.has-padding-r4 {
+  padding-right: 1rem;
+}
+.has-padding-r5 {
+  padding-right: 1.25rem;
+}
+.has-padding-r6 {
+  padding-right: 1.5rem;
+}
+/* padding bottom */
+.has-padding-b0 {
+  padding-top: 0rem;
+}
+.has-padding-b1 {
+  padding-bottom: 0.5rem;
+}
+.has-padding-b2 {
+  padding-bottom: 0.5rem;
+}
+.has-padding-b3 {
+  padding-bottom: 0.75rem;
+}
+.has-padding-b4 {
+  padding-bottom: 1rem;
+}
+.has-padding-b5 {
+  padding-bottom: 1.25rem;
+}
+.has-padding-b6 {
+  padding-bottom: 1.5rem;
+}
+/* padding left */
+.has-padding-l0 {
+  padding-top: 0rem;
+}
+.has-padding-l1 {
+  padding-left: 0.5rem;
+}
+.has-padding-l2 {
+  padding-left: 0.5rem;
+}
+.has-padding-l3 {
+  padding-left: 0.75rem;
+}
+.has-padding-l4 {
+  padding-left: 1rem;
+}
+.has-padding-l5 {
+  padding-left: 1.25rem;
+}
+.has-padding-l6 {
+  padding-left: 1.5rem;
+}
