@@ -1,7 +1,7 @@
 {
   "name": "tinypebblecss",
-  "version": "0.5.",
-  "description": "A really small CSS framework",
+  "version": "1.0.1",
+  "description": "A 2 in 1 micro CSS framework",
   "main": "dist/pebble.min.css",
   "scripts": {
     "start": "run-p docs watch",
