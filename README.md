@@ -1,6 +1,6 @@
 # pebblecss
 
-Easiest way to install is to add the below to your code.
+Easiest way to install is to add the below to your html code.
 
 ```
 
